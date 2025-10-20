@@ -50,8 +50,8 @@ A task management app with login, user dashboard and progress tracking.
 ---
 
 ## 📈 GitHub Stats
-![ECG's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucia-codes&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucia-codes&layout=compact&theme=react)
+![ECG's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ecg&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ecg&layout=compact&theme=react)
 
 ---
 
