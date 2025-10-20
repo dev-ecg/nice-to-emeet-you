@@ -1,5 +1,3 @@
-# nice-to-emeet-you
-
 # 👋 Hi there, I'm Lucía!  
 
 I'm a **Junior Full Stack Developer** passionate about creating clean, responsive, and user-friendly web applications.  
