@@ -33,33 +33,31 @@ After completing an intensive development bootcamp, I’m focused on refining my
 App that allows users to log books, rate them, and connect with friends who share their reading interests.  
 **Stack:** React, Node.js, MongoDB  
 **Features:** CRUD, responsive design, authentication  
-**[Repo Link](#)** | **[Live Demo](#)**
+**[https://github.com/4GeeksAcademy/Circulo-Lectores](#)**
 
 ---
 
 ### ☀️ WeatherNow
 Responsive weather web app consuming a public API.  
 **Stack:** HTML, CSS, JavaScript, API Fetch  
-**[Repo Link](#)** | **[Live Demo](#)**
 
 ---
 
 ### ✅ TaskFlow
 A task management app with login, user dashboard and progress tracking.  
 **Stack:** React, Node.js, Express  
-**[Repo Link](#)** | **[Live Demo](#)**
 
 ---
 
 ## 📈 GitHub Stats
-![Lucia's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucia-codes&show_icons=true&theme=react)
+![ECG's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucia-codes&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucia-codes&layout=compact&theme=react)
 
 ---
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucía-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-tuemail@gmail.com-red?logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucía-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-ecg/)
+[![Email](https://img.shields.io/badge/Email-tuemail@gmail.com-red?logo=gmail&logoColor=white)](mailto:cgeulalia11l@gmail.com)
 
-✨ *Always learning, always building.*
+✨ *Always learning, always building.* ✨
 
