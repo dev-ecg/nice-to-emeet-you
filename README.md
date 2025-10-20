@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Lucía!  
+# 👋 Hi there, I'm ECG!  
 
 I'm a **Junior Full Stack Developer** passionate about creating clean, responsive, and user-friendly web applications.  
 After completing an intensive development bootcamp, I’m focused on refining my skills and creating projects that deliver real value to users.
