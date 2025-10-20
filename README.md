@@ -56,8 +56,8 @@ A task management app with login, user dashboard and progress tracking.
 ---
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucía-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-ecg/)
-[![Email](https://img.shields.io/badge/Email-tuemail@gmail.com-red?logo=gmail&logoColor=white)](mailto:cgeulalia11l@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dev-ECG-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-ecg/)
+[![Email](https://img.shields.io/badge/Email-cgeulalia11@gmail.com-green?logo=gmail&logoColor=white)](mailto:cgeulalia11l@gmail.com)
 
 ✨ *Always learning, always building.* ✨
 
