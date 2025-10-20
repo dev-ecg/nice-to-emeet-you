@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Lucía!  
 
 I'm a **Junior Full Stack Developer** passionate about creating clean, responsive, and user-friendly web applications.  
-After completing an intensive Full Stack Bootcamp, I’m now focused on improving my **JavaScript** and **React** skills while learning backend technologies like **Node.js** and **MongoDB**.  
+After completing an intensive development bootcamp, I’m focused on refining my skills and creating projects that deliver real value to users.
 
 ---
 
