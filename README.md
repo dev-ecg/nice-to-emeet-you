@@ -29,7 +29,7 @@ After completing an intensive development bootcamp, I’m focused on refining my
 
 ## 🧩 Featured Projects
 
-### 📚 BookTrack — Reading Tracker App
+### 📚 Circulo Lectores — Reading Tracker App
 App that allows users to log books, rate them, and connect with friends who share their reading interests.  
 **Stack:** React, Node.js, MongoDB  
 **Features:** CRUD, responsive design, authentication  
